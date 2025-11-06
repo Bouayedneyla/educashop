@@ -1,4 +1,10 @@
 package settings;
 public class LoginPage{
- String 
+private JTextField emailField;
+private JPasswordField passwordField;
+private JCheckBox rememberMeCheck;
+private JButton loginButton;
+private JButton registerButton;
+private JButton googleLoginButton;
+private JButton facebookLoginButton; 
 }
